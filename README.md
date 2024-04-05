@@ -1,4 +1,12 @@
 ### Hi there 👋
+<div id="badges">
+  <a href="[your-linkedin-URL](https://www.linkedin.com/in/harshil-patel-5157bb14a/)">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://twitter.com/Harshil4076">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
 I am a Fullstack Software Developer. Love to build awesome Applications.
 
 - 🔭 I’m currently working on [CNDI](https://github.com/polyseam/cndi)
